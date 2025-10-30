@@ -1,3 +1,9 @@
+---
+title: "Hello World"
+author: "Karla Fučkan"
+date: "30.10.2025"
+---
+
 # Hello world
 Moj prvi github repozitatorij
 
